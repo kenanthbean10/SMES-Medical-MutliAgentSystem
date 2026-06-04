@@ -1,0 +1,313 @@
+[2026-05-26 13:11:53] PREDICTIVE | patient=anon-f86f      | Trending toward TACHYCARDIA | avg5=104.0 slope=2.62
+[2026-05-26 13:11:57] PREDICTIVE | patient=anon-f86f      | Trending toward TACHYCARDIA | avg5=108.0 slope=3.10
+[2026-05-26 13:12:01] PREDICTIVE | patient=anon-f86f      | Trending toward TACHYCARDIA | avg5=112.0 slope=3.20
+[2026-05-26 13:12:05] PREDICTIVE | patient=anon-f86f      | Trending toward TACHYCARDIA | avg5=116.0 slope=2.91
+[2026-05-26 13:12:13] ALERT      | patient=anon-f86f      | SUDDEN HR DROP  | hr=70 bpm
+[2026-05-26 13:12:17] ALERT      | patient=anon-f86f      | SUDDEN HR DROP  | hr=70 bpm
+[2026-05-26 13:12:17] PREDICTIVE | patient=anon-f86f      | High HRV — possible ARRHYTHMIA risk | HRV=19.32
+[2026-05-26 13:12:17] REVIEW     | patient=anon-f86f      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:12:21] PREDICTIVE | patient=anon-f86f      | High HRV — possible ARRHYTHMIA risk | HRV=21.83
+[2026-05-26 13:12:25] PREDICTIVE | patient=anon-f86f      | High HRV — possible ARRHYTHMIA risk | HRV=23.66
+[2026-05-26 13:12:29] PREDICTIVE | patient=anon-f86f      | High HRV — possible ARRHYTHMIA risk | HRV=24.97
+[2026-05-26 13:12:33] PREDICTIVE | patient=anon-f86f      | High HRV — possible ARRHYTHMIA risk | HRV=25.82
+[2026-05-26 13:12:37] PREDICTIVE | patient=anon-f86f      | High HRV — possible ARRHYTHMIA risk | HRV=24.15
+[2026-05-26 13:12:41] PREDICTIVE | patient=anon-f86f      | High HRV — possible ARRHYTHMIA risk | HRV=21.08
+[2026-05-26 13:21:30] ALERT      | patient=anon-96e8      | SUDDEN HR RISE  | hr=160 bpm
+[2026-05-26 13:21:30] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=103.3 slope=42.50
+[2026-05-26 13:21:30] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=49.07
+[2026-05-26 13:21:30] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-05-26 13:21:34] ALERT      | patient=anon-96e8      | SUDDEN HR RISE  | hr=160 bpm
+[2026-05-26 13:21:34] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=117.5 slope=34.00
+[2026-05-26 13:21:34] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=49.07
+[2026-05-26 13:21:34] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-05-26 13:21:38] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=126.0 slope=25.50
+[2026-05-26 13:21:38] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=46.56
+[2026-05-26 13:21:38] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:21:42] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=143.0 slope=19.43
+[2026-05-26 13:21:42] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=43.89
+[2026-05-26 13:21:42] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:21:46] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=15.18
+[2026-05-26 13:21:46] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.48
+[2026-05-26 13:21:46] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:21:50] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=12.14
+[2026-05-26 13:21:50] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=39.35
+[2026-05-26 13:21:50] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:21:57] ALERT      | patient=anon-96e8      | SUDDEN HR RISE  | hr=190 bpm
+[2026-05-26 13:21:57] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=166.0 slope=11.92
+[2026-05-26 13:21:57] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=40.58
+[2026-05-26 13:21:57] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-05-26 13:22:01] ALERT      | patient=anon-96e8      | SUDDEN HR RISE  | hr=190 bpm
+[2026-05-26 13:22:01] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=172.0 slope=11.15
+[2026-05-26 13:22:01] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=40.88
+[2026-05-26 13:22:01] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-05-26 13:22:05] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=178.0 slope=8.45
+[2026-05-26 13:22:05] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=33.20
+[2026-05-26 13:22:05] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:22:08] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=184.0 slope=4.36
+[2026-05-26 13:22:08] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:22:09] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=190.0 slope=4.55
+[2026-05-26 13:22:09] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:22:13] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=190.0 slope=4.36
+[2026-05-26 13:22:13] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:22:17] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=190.0 slope=3.82
+[2026-05-26 13:22:21] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=190.0 slope=2.91
+[2026-05-26 13:22:25] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=190.0 slope=1.64
+[2026-05-26 13:22:41] ALERT      | patient=anon-96e8      | SUDDEN HR DROP  | hr=160 bpm
+[2026-05-26 13:22:41] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 8/10 — flagged for clinician review
+[2026-05-26 13:22:42] ALERT      | patient=anon-96e8      | SUDDEN HR DROP  | hr=160 bpm
+[2026-05-26 13:22:42] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 8/10 — flagged for clinician review
+[2026-05-26 13:22:47] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:22:51] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:22:55] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:24:31] ALERT      | patient=anon-96e8      | SUDDEN HR DROP  | hr=75 bpm
+[2026-05-26 13:24:31] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=26.88
+[2026-05-26 13:24:31] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 9/10 — flagged for clinician review
+[2026-05-26 13:24:33] ALERT      | patient=anon-96e8      | SUDDEN HR DROP  | hr=75 bpm
+[2026-05-26 13:24:33] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=35.84
+[2026-05-26 13:24:33] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 9/10 — flagged for clinician review
+[2026-05-26 13:24:35] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-05-26 13:24:38] ALERT      | patient=anon-96e8      | SUDDEN HR RISE  | hr=160 bpm
+[2026-05-26 13:24:38] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-05-26 13:24:38] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-05-26 13:24:39] ALERT      | patient=anon-96e8      | SUDDEN HR RISE  | hr=160 bpm
+[2026-05-26 13:24:39] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-05-26 13:24:39] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-05-26 13:24:41] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-05-26 13:24:41] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:24:41] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=143.0 slope=1.55
+[2026-05-26 13:24:41] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-05-26 13:24:41] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:24:46] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=4.64
+[2026-05-26 13:24:46] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-05-26 13:24:46] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:24:50] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=7.73
+[2026-05-26 13:24:50] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-05-26 13:24:50] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:24:54] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=10.82
+[2026-05-26 13:24:54] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-05-26 13:24:54] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:24:58] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=8.24
+[2026-05-26 13:24:58] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=35.84
+[2026-05-26 13:24:58] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-05-26 13:25:02] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=4.64
+[2026-05-26 13:25:02] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=26.88
+[2026-05-26 13:25:02] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:25:24] ALERT      | patient=anon-96e8      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 18:25:24] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=26.88
+[2026-06-03 18:25:24] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 18:25:28] ALERT      | patient=anon-96e8      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 18:25:28] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=109.0 slope=8.24
+[2026-06-03 18:25:28] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=35.84
+[2026-06-03 18:25:28] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 18:25:32] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=126.0 slope=10.82
+[2026-06-03 18:25:32] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-06-03 18:25:32] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:25:36] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=143.0 slope=12.36
+[2026-06-03 18:25:36] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=43.89
+[2026-06-03 18:25:36] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:25:40] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=12.88
+[2026-06-03 18:25:40] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=44.80
+[2026-06-03 18:25:40] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:25:44] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=12.36
+[2026-06-03 18:25:44] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=43.89
+[2026-06-03 18:25:44] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:25:48] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=10.82
+[2026-06-03 18:25:48] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-06-03 18:25:48] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:25:52] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=8.24
+[2026-06-03 18:25:52] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=35.84
+[2026-06-03 18:25:52] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:25:56] PREDICTIVE | patient=anon-96e8      | Trending toward TACHYCARDIA | avg5=160.0 slope=4.64
+[2026-06-03 18:25:56] PREDICTIVE | patient=anon-96e8      | High HRV — possible ARRHYTHMIA risk | HRV=26.88
+[2026-06-03 18:25:56] REVIEW     | patient=anon-96e8      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:33:05] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=106.07
+[2026-06-03 18:33:07] ALERT      | patient=anon-96e9      | SUDDEN HR DROP  | hr=100 bpm
+[2026-06-03 18:33:07] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=75.50
+[2026-06-03 18:33:07] REVIEW     | patient=anon-96e9      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:33:09] ALERT      | patient=anon-96e9      | SUDDEN HR RISE  | hr=100 bpm
+[2026-06-03 18:33:09] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=61.85
+[2026-06-03 18:33:09] REVIEW     | patient=anon-96e9      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 18:33:13] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=53.67
+[2026-06-03 18:33:17] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=48.06
+[2026-06-03 18:33:21] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=43.92
+[2026-06-03 18:33:25] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=40.69
+[2026-06-03 18:33:29] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=38.08
+[2026-06-03 18:33:33] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=35.92
+[2026-06-03 18:33:37] PREDICTIVE | patient=anon-96e9      | Trending toward TACHYCARDIA | avg5=100.0 slope=4.91
+[2026-06-03 18:33:37] PREDICTIVE | patient=anon-96e9      | High HRV — possible ARRHYTHMIA risk | HRV=28.46
+[2026-06-03 19:04:08] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 19:04:08] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=112.0 slope=3.27
+[2026-06-03 19:04:08] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=18.97
+[2026-06-03 19:04:08] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 19:04:12] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 19:04:12] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=124.0 slope=5.82
+[2026-06-03 19:04:12] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=25.30
+[2026-06-03 19:04:12] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 19:04:14] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=136.0 slope=7.64
+[2026-06-03 19:04:14] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=28.98
+[2026-06-03 19:04:14] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:15] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=148.0 slope=8.73
+[2026-06-03 19:04:15] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=30.98
+[2026-06-03 19:04:15] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:16] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=9.09
+[2026-06-03 19:04:16] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=31.62
+[2026-06-03 19:04:16] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:16] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=8.73
+[2026-06-03 19:04:16] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=30.98
+[2026-06-03 19:04:16] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:17] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=7.64
+[2026-06-03 19:04:17] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=28.98
+[2026-06-03 19:04:17] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:21] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=1 bpm
+[2026-06-03 19:04:21] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=52.38
+[2026-06-03 19:04:21] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 19:04:24] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=51.73
+[2026-06-03 19:04:24] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:24] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 19:04:24] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.28
+[2026-06-03 19:04:24] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 19:04:29] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.28
+[2026-06-03 19:04:29] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:33] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.28
+[2026-06-03 19:04:37] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.28
+[2026-06-03 19:04:41] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=2.89
+[2026-06-03 19:04:41] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.28
+[2026-06-03 19:04:41] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:45] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=4.82
+[2026-06-03 19:04:45] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.28
+[2026-06-03 19:04:45] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:49] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=6.75
+[2026-06-03 19:04:49] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.28
+[2026-06-03 19:04:49] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:04:53] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=8.67
+[2026-06-03 19:04:53] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.28
+[2026-06-03 19:04:53] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:05:01] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=90 bpm
+[2026-06-03 19:05:01] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=22.14
+[2026-06-03 19:05:01] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:05:05] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=90 bpm
+[2026-06-03 19:05:05] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=29.51
+[2026-06-03 19:05:05] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:05:09] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:05:13] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.15
+[2026-06-03 19:05:17] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.89
+[2026-06-03 19:05:24] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=35.48
+[2026-06-03 19:05:25] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=32.77
+[2026-06-03 19:05:29] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=28.39
+[2026-06-03 19:05:33] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=21.34
+[2026-06-03 19:05:37] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=99.0 slope=1.36
+[2026-06-03 19:05:41] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=99.0 slope=1.31
+[2026-06-03 19:35:55] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 19:35:55] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=111.2 slope=3.33
+[2026-06-03 19:35:55] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=19.29
+[2026-06-03 19:35:55] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 19:35:59] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 19:35:59] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=123.4 slope=5.92
+[2026-06-03 19:35:59] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=25.72
+[2026-06-03 19:35:59] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 19:36:03] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=135.6 slope=7.76
+[2026-06-03 19:36:03] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=29.47
+[2026-06-03 19:36:03] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:36:07] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=147.8 slope=8.87
+[2026-06-03 19:36:07] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=31.50
+[2026-06-03 19:36:07] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:36:11] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=9.24
+[2026-06-03 19:36:11] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=32.15
+[2026-06-03 19:36:11] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:36:15] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=8.87
+[2026-06-03 19:36:15] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=31.50
+[2026-06-03 19:36:15] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:36:19] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=7.76
+[2026-06-03 19:36:19] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=29.47
+[2026-06-03 19:36:19] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:36:23] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=5.92
+[2026-06-03 19:36:23] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=25.72
+[2026-06-03 19:36:23] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:36:30] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=90 bpm
+[2026-06-03 19:36:30] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=27.70
+[2026-06-03 19:36:31] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=90 bpm
+[2026-06-03 19:36:31] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=29.51
+[2026-06-03 19:36:31] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:36:35] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:36:43] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 19:36:43] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:36:43] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 19:36:47] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 19:36:47] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:36:47] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 19:36:51] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:36:55] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=146.0 slope=1.27
+[2026-06-03 19:36:55] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:36:59] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=3.82
+[2026-06-03 19:36:59] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:36:59] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:37:03] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=6.36
+[2026-06-03 19:37:03] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:37:03] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:37:07] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=8.91
+[2026-06-03 19:37:07] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=33.81
+[2026-06-03 19:37:07] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:37:11] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=6.79
+[2026-06-03 19:37:11] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=29.51
+[2026-06-03 19:37:11] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 19:37:15] PREDICTIVE | patient=anon-96ea      | Trending toward TACHYCARDIA | avg5=160.0 slope=3.82
+[2026-06-03 19:37:15] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=22.14
+[2026-06-03 19:37:15] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 20:24:19] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=75 bpm
+[2026-06-03 20:24:19] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=26.88
+[2026-06-03 20:24:19] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 9/10 — flagged for clinician review
+[2026-06-03 20:24:23] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=75 bpm
+[2026-06-03 20:24:23] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=35.84
+[2026-06-03 20:24:23] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 9/10 — flagged for clinician review
+[2026-06-03 20:24:27] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-06-03 20:24:31] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=43.89
+[2026-06-03 20:24:35] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=44.80
+[2026-06-03 20:24:39] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=43.89
+[2026-06-03 20:24:43] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=7 bpm
+[2026-06-03 20:24:43] PREDICTIVE | patient=anon-96ea      | Trending toward BRADYCARDIA | avg5=61.4 slope=-14.53
+[2026-06-03 20:24:43] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.33
+[2026-06-03 20:24:43] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 20:24:45] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 20:24:45] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=50.33
+[2026-06-03 20:24:45] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 20:24:49] ALERT      | patient=anon-96ea      | SUDDEN HR RISE  | hr=75 bpm
+[2026-06-03 20:24:49] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=44.76
+[2026-06-03 20:24:49] REVIEW     | patient=anon-96ea      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 20:24:53] ALERT      | patient=anon-96ea      | SUDDEN HR DROP  | hr=75 bpm
+[2026-06-03 20:24:53] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.24
+[2026-06-03 20:24:57] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.24
+[2026-06-03 20:25:01] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.24
+[2026-06-03 20:25:05] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.24
+[2026-06-03 20:25:09] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.24
+[2026-06-03 20:25:13] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.24
+[2026-06-03 20:25:17] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=36.24
+[2026-06-03 20:25:22] PREDICTIVE | patient=anon-96ea      | High HRV — possible ARRHYTHMIA risk | HRV=26.88
+[2026-06-03 20:33:57] ALERT      | patient=anon-3669      | SUDDEN HR DROP  | hr=75 bpm
+[2026-06-03 20:35:10] ALERT      | patient=anon-3669      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 20:35:10] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=26.88
+[2026-06-03 20:35:10] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 20:35:13] ALERT      | patient=anon-3669      | SUDDEN HR RISE  | hr=160 bpm
+[2026-06-03 20:35:13] PREDICTIVE | patient=anon-3669      | Trending toward TACHYCARDIA | avg5=109.0 slope=8.24
+[2026-06-03 20:35:13] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=35.84
+[2026-06-03 20:35:13] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 10/10 — flagged for clinician review
+[2026-06-03 20:35:17] PREDICTIVE | patient=anon-3669      | Trending toward TACHYCARDIA | avg5=126.0 slope=10.82
+[2026-06-03 20:35:17] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-06-03 20:35:17] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 20:35:21] PREDICTIVE | patient=anon-3669      | Trending toward TACHYCARDIA | avg5=143.0 slope=12.36
+[2026-06-03 20:35:21] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=43.89
+[2026-06-03 20:35:21] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 20:35:25] PREDICTIVE | patient=anon-3669      | Trending toward TACHYCARDIA | avg5=160.0 slope=12.88
+[2026-06-03 20:35:25] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=44.80
+[2026-06-03 20:35:25] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 20:35:29] PREDICTIVE | patient=anon-3669      | Trending toward TACHYCARDIA | avg5=160.0 slope=12.36
+[2026-06-03 20:35:29] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=43.89
+[2026-06-03 20:35:29] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 20:35:33] PREDICTIVE | patient=anon-3669      | Trending toward TACHYCARDIA | avg5=160.0 slope=10.82
+[2026-06-03 20:35:33] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=41.06
+[2026-06-03 20:35:33] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 20:35:37] PREDICTIVE | patient=anon-3669      | Trending toward TACHYCARDIA | avg5=160.0 slope=8.24
+[2026-06-03 20:35:37] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=35.84
+[2026-06-03 20:35:37] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 7/10 — flagged for clinician review
+[2026-06-03 20:35:41] PREDICTIVE | patient=anon-3669      | Trending toward TACHYCARDIA | avg5=160.0 slope=4.64
+[2026-06-03 20:35:41] PREDICTIVE | patient=anon-3669      | High HRV — possible ARRHYTHMIA risk | HRV=26.88
+[2026-06-03 20:35:41] REVIEW     | patient=anon-3669      | HIGH RISK SCORE 7/10 — flagged for clinician review

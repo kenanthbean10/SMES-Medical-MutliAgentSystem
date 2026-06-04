@@ -1,0 +1,16 @@
+hil_store.txt	Encrypted audit log	Every message
+hil_analytics.txt	Human‑readable analytics	Every valid reading
+hil_alerts.txt	Only when alert condition fires	On alert
+hil_profiles.txt	Snapshot of all patients	Overwritten each reading
+hil_console.log	Mirror of all console logs	Every log message
+
+
+1. Main Container (RMA)
+2. DecisionNode
+3. Gatekeeper
+4. PowerSaver
+5. MediNotifier
+6. ShieldGuard
+7. BioHistorian
+8. VitalSense
+.

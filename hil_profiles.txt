@@ -1,0 +1,36 @@
+=== SMES Patient Profile Snapshot ===
+Generated: 2026-06-04 10:33:53
+Total patients tracked: 4
+--------------------------------------
+Patient : anon-96ea
+  Readings stored : 50 / 50
+  Latest HR       : 75 bpm
+  Avg (5-reading) : 75.0 bpm
+  Avg (20-reading): 75.0 bpm
+  HRV (std-dev)   : 0.00 bpm
+  Trend slope     : 0.00 bpm/reading
+--------------------------------------
+Patient : anon-3669
+  Readings stored : 50 / 50
+  Latest HR       : 160 bpm
+  Avg (5-reading) : 160.0 bpm
+  Avg (20-reading): 160.0 bpm
+  HRV (std-dev)   : 0.00 bpm
+  Trend slope     : 0.00 bpm/reading
+--------------------------------------
+Patient : anon-96e8
+  Readings stored : 47 / 50
+  Latest HR       : 160 bpm
+  Avg (5-reading) : 160.0 bpm
+  Avg (20-reading): 160.0 bpm
+  HRV (std-dev)   : 0.00 bpm
+  Trend slope     : 0.00 bpm/reading
+--------------------------------------
+Patient : anon-96e9
+  Readings stored : 50 / 50
+  Latest HR       : 100 bpm
+  Avg (5-reading) : 100.0 bpm
+  Avg (20-reading): 100.0 bpm
+  HRV (std-dev)   : 0.00 bpm
+  Trend slope     : 0.00 bpm/reading
+--------------------------------------
